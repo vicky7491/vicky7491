@@ -31,8 +31,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
- ![Premier pro](https://img.shields.io/badge/-premierpro-333333?style=flat&logo=adobe-premierpro)
- ![After effects](https://img.shields.io/badge/-aftereffects-333333?style=flat&logo=adobe-aftereffects)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
+![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
 
 
 <br/>
