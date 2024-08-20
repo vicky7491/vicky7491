@@ -48,7 +48,7 @@
 <!-- <a href="https://www.nitishkumar.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/nitish-kumar-38676b24b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nitish kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/vicky_ydv95?igsh=MzV5NGtudzdnaHdx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nitish kumar__-blue?style=flat-square&logo=instagram"></a>
-<a href="vickyyadav53832gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vickyyadav5383@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="[vickyyadav53832gmail.com](https://mail.google.com/mail/mu/mp/462/#tl/priority/%5Esmartlabel_personal)"><img alt="Email" src="https://img.shields.io/badge/Email-vickyyadav5383@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [vicky7491](https://github.com/vicky7491)
